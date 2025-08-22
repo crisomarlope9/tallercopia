@@ -4,3 +4,4 @@ amarillo
 rojo
 morado
 naranja
+violeta
